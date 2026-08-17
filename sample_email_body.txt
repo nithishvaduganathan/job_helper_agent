@@ -1,0 +1,23 @@
+Dear Hiring Team,
+
+I hope you are doing well.
+
+I am writing to express my interest in the [role] position at [company_name].
+
+I recently graduated with a B.Tech in Artificial Intelligence and Data Science. I have hands-on experience in Python, FastAPI, Flask, SQL, REST APIs, React.js, Git, Docker, AWS, and backend application development. I have also worked on AI-powered applications, RAG-based chatbots, and full-stack web development projects.
+
+I understand that the job description mentions candidates with experience. However, I have a strong foundation in Python and backend development, and I am eager to learn and contribute to your team. I am a quick learner, dedicated, and ready to take on new challenges.
+
+I have attached my resume for your review. I would be grateful if you could consider my application for the Python Developer role or any suitable opportunities within your organization.
+
+Thank you for your time and consideration. I look forward to hearing from you.
+
+Kind regards,
+
+**Nithish Vaduganathan**
+B.Tech – Artificial Intelligence and Data Science
++91 8531977455
+[nithishvaduganathan07@gmail.com](mailto:nithishvaduganathan07@gmail.com)
+LinkedIn: https://www.linkedin.com/in/nithishvaduganathan
+GitHub: https://github.com/nithishvaduganathan
+Portfolio: https://nithishvaduganathan.tech
